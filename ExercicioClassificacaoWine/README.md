@@ -47,7 +47,7 @@ A métrica de F1-score foi a mais relevante nesta análise, pois considera tanto
 iv. Modelo com Performance Significativamente Diferente
 O Random Forest obteve um desempenho superior, especialmente por ter uma acurácia e F1-score perfeitos, ao contrário dos outros modelos que apresentaram pequenas quedas nessas métricas. Esse comportamento pode ser explicado pelo poder de ensemble do Random Forest, que combina várias árvores de decisão para aumentar a robustez e reduzir o risco de overfitting em comparação com uma única árvore de decisão.
 
-Conclusão
+## Conclusão
 i. Melhor Modelo para Este Conjunto de Dados
 O Random Forest foi o modelo que apresentou o melhor desempenho para a classificação, alcançando 100% em acurácia e F1-score.
 
